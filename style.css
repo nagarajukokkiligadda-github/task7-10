@@ -1,0 +1,11 @@
+@media (orientation: portrait) {
+    button {
+      background-color: orange;
+    }
+  }
+  
+  @media (orientation: landscape) {
+    button {
+      background-color: teal;
+    }
+  }
